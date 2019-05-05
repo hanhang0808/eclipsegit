@@ -1,9 +1,6 @@
 package com.jn.tw;
 <<<<<<< HEAD
-//调试1111
-=======
-//调试222
->>>>>>> branch 'master' of https://github.com/hanhang0808/eclipsegit.git
+//调试1111+4444
 public class gittesto1 {
 
 	public static void main(String[] args) {
