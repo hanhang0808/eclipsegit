@@ -1,10 +1,10 @@
 package com.jn.tw;
-
+//璋冭瘯
 public class gittesto1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("第一次提交");
+		System.out.println("碌脷脪禄麓脦脤谩陆禄");
 
 	}
 
